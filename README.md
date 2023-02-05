@@ -16,7 +16,7 @@ We Used Create React App to make this Contact List:
   
   <img width="526" alt="Screenshot 2023-02-05 at 1 49 28 PM" src="https://user-images.githubusercontent.com/113807743/216838949-944903e1-c25c-4584-9d7e-ea763f2f0c60.png">
 
-<h2> shout out to my team on this team collab & creation</h2>
+<h2> shout out to my TEAM on this <strong>Collab Creation</strong></h2>
 <br>
 <strong>https://github.com/arerimr</strong>
 <br>
