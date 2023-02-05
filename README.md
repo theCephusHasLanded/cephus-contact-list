@@ -7,6 +7,8 @@ We Used Create React App to make this Contact List:
   <li>Name (first & second)</li>
   <li>Home Phone</li>
   <li>Cell Phone</li>
+  <br>
+___________________
   
   <ul>Methods used were the .map() prototype combined with destructuring of json data and usage of <strong>REACT PROPS</strong></ul>
   <h1>CONTACT LIST SCREENGRAB</h1>
