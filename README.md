@@ -8,9 +8,9 @@ We Used Create React App to make this Contact List:
   <li>Home Phone</li>
   <li>Cell Phone</li>
   <br>
-  ___________________
-  
-  <ul>🗺️ Methods used were the .map() prototype combined with destructuring of json data and usage of <strong>REACT PROPS</strong></ul>
+  _____________________________________________
+  <br>
+  <h3>🗺️ Methods used were the .map() prototype combined with destructuring of json data and usage of <strong>REACT PROPS</strong></h3>
   <h1>CONTACT LIST SCREENGRAB</h1>
   <p>I did some light styling and edited the flex to scroll up and down</p>
   
